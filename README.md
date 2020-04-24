@@ -4,12 +4,12 @@
 
 Requires Selenium package installed.
 
-Features:
-* signs in
-* opens profile
-* exports followers/following in json format
-* can import dict of users and like them with probability
-* can import lists of tags and like them with probability
+* Features:
+* * signs in
+* * opens profile
+* * exports followers/following in json format
+* * can import dict of users and like them with probability
+* * can import lists of tags and like them with probability
 
 * Usage example:
 ```
